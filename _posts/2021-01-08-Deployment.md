@@ -1,13 +1,12 @@
 ---
-title: environment
-date: 2021-01-08
-categories: [Blogging,Tutorial]
-tages:[writting]
+title: Deployment
+auther: Pikady
+date: 2021-01-08 15:25:00 +0800
+categories: [Top_Blogging,Sub_Tutorial]
+tages: [writting]
 ---
 
 
-
-# 个人博客搭建
 
 通过git+github+jekyll+markdown搭建写作环境，在一个文件编辑器（可能是Atom）中通过markdown语法写作，然后更新到个人博客网站中
 
