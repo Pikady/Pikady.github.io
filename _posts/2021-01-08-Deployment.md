@@ -2,8 +2,8 @@
 title: Deployment
 auther: Pikady
 date: 2021-01-08 15:25:00 +0800
-categories: [Top_Blogging,Sub_Tutorial]
-tages: [writting]
+categories: [工具,jekyll]
+tags: [写作环境]
 ---
 
 
