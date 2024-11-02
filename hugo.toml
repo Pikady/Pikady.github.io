@@ -3,7 +3,7 @@
 # title = 'My New Hugo Site'
 # themes = 'archie'
 
-baseURL = "https://github.com/Pikady/pikady.github.io"
+baseURL = "https://pikady.github.io"
 languageCode = "en-us"
 title = "Archie"
 themes ="archie"
